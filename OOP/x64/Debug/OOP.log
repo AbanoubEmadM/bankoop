@@ -1,0 +1,47 @@
+﻿  OOP.cpp
+C:\Users\OEN\source\repos\OOP\OOP\OOP.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\OEN\source\repos\OOP\OOP\clsBankClient.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'OOP.cpp')
+  
+C:\Users\OEN\source\repos\OOP\OOP\clsBankClient.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'OOP.cpp')
+  
+C:\Users\OEN\source\repos\OOP\OOP\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OOP.cpp')
+  
+C:\Users\OEN\source\repos\OOP\OOP\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OOP.cpp')
+  
+C:\Users\OEN\source\repos\OOP\OOP\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OOP.cpp')
+  
+C:\Users\OEN\source\repos\OOP\OOP\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OOP.cpp')
+  
+C:\Users\OEN\source\repos\OOP\OOP\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OOP.cpp')
+  
+C:\Users\OEN\source\repos\OOP\OOP\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'OOP.cpp')
+  
+C:\Users\OEN\source\repos\OOP\OOP\clsBankClient.h(25,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP.cpp')
+  
+C:\Users\OEN\source\repos\OOP\OOP\clsBankClient.h(121,45): warning C4390: ';': empty controlled statement found; is this the intent?
+  (compiling source file 'OOP.cpp')
+  
+C:\Users\OEN\source\repos\OOP\OOP\OOP.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\OEN\source\repos\OOP\OOP\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'OOP.cpp')
+  
+C:\Users\OEN\source\repos\OOP\OOP\OOP.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\OEN\source\repos\OOP\OOP\clsInputValidate.h(101,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP.cpp')
+  
+C:\Users\OEN\source\repos\OOP\OOP\clsInputValidate.h(105,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'OOP.cpp')
+  
+C:\Users\OEN\source\repos\OOP\OOP\OOP.cpp(29,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\OEN\source\repos\OOP\OOP\OOP.cpp(209,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\OEN\source\repos\OOP\OOP\clsBankClient.h(284,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+  OOP.vcxproj -> C:\Users\OEN\source\repos\OOP\x64\Debug\OOP.exe
